@@ -3,7 +3,12 @@ guid: 82e76167d6feade47b51660c8f83627b
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luz Quadro
+    second: {fileID: 2100000, guid: d1a35f94c5bbdbd4db33a79eb19da7ac, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
